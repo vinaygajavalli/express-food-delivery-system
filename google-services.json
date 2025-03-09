@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "294761408517",
+    "project_id": "fooddelivery-cfb91",
+    "storage_bucket": "fooddelivery-cfb91.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:294761408517:android:1d70b08d345daf0690d46c",
+        "android_client_info": {
+          "package_name": "com.example.fooddeliverfortrain"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBU5ImBrToCms1tzK0_Cg6047a3B3tl7ZA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
