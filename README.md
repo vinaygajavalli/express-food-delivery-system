@@ -33,3 +33,6 @@ Hardware Requirements
 2. 80 GB HDD minimum.
 3. 4 GB RAM
 4. Router internet connection 
+ 
+ 
+ Note : create google.json file and connect with firebase to login the application.
